@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-my_name = 'phoenix. Ming'
+my_name = "phoenix. Ming"
 my_age = 32
 my_height = 174
 my_weight = 180
